@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mina Wadie, an structural engineer by degree, self-taught software engineer and a geek by nature.
+- 👋 Hi, I’m Mina Wadie, a structural engineer by degree, a self-taught software engineer and a geek by nature.
 - 👀 I’m interested in computer science, computational mechanics, applied mathematics, and full stack web development.
 - 📫 you can reach me on:
         -linkedin: https://www.linkedIn.com/in/minawnagib
